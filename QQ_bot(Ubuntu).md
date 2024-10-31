@@ -56,7 +56,8 @@ sudo dpkg -r linuxqq
 
 1、官网下载最新版LinuxQQ安装包
 
-![img](file:///C:\Users\86139\Documents\Tencent Files\895686378\nt_qq\nt_data\Pic\2024-10\Ori\750618fd22c642bd3bad0ae5b3313994.png)
+![11111111111111111](https://github.com/user-attachments/assets/8b8c059a-8faa-4107-ac9d-c47dd06e7781)
+
 
 2、安装依赖
 
