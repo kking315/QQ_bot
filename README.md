@@ -2,6 +2,8 @@
  
 分[Win版](https://github.com/kking315/QQ_bot/blob/main/QQ_bot(win).md)和[Ubuntu版](https://github.com/kking315/QQ_bot/blob/main/QQ_bot(Ubuntu).md)，配置基本类似
 
+[接口文档](https://apifox.com/apidoc/shared-a7b7a53c-8b85-4885-8573-103cfffb75ac/doc-5341902)
+
 各API请参考各文件目录申请注册
 
 天气：[高德]()
