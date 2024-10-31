@@ -12,9 +12,9 @@
 
 问题：403 拒绝连接
 
-![image-20241030211035504](C:\Users\86139\AppData\Roaming\Typora\typora-user-images\image-20241030211035504.png)
+![image-20241030211042827](https://github.com/user-attachments/assets/6e290c52-5925-4d7f-964c-de62b56e7220)
+![image-20241030211035504](https://github.com/user-attachments/assets/a1861630-3419-403c-80aa-4246a9e52444)
 
-![image-20241030211042827](C:\Users\86139\AppData\Roaming\Typora\typora-user-images\image-20241030211042827.png)
 
 解决办法就是把‘/’删了
 
