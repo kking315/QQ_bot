@@ -6,7 +6,7 @@ url = 'https://restapi.amap.com/v3/weather/weatherInfo'
 
 # 请求参数模板
 params_template = {
-    'key': 'e968a3ab811597c8c5925384777df54a',  # 提供的高德地图API密钥
+    'key': '******',  # 提供的高德地图API密钥
     'output': 'JSON'  # 返回格式为JSON
 }
 
