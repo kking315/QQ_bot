@@ -182,8 +182,8 @@ async def handle_websocket_data(websocket: WebSocket, data: dict):
             send_image(user_id, response_generator)
 
     elif message_type == "group":
-        if "CQ:at,qq=3309841385" in message_content:
-            message_content.replace("[CQ:at,qq=3309841385,name=超级无敌奶龙大帝]", "")
+        if "CQ:at,qq={bot_qq}" in message_content:
+            message_content.replace("[CQ:at,qq={bot_qq},name={bot_name}]", "")
             # 群聊消息处理
             response_generator = send_message(assistant_id, access_token, message_content)
             if isinstance(response_generator, str):
