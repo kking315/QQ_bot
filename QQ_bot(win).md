@@ -106,7 +106,7 @@ if __name__ == "__main__":
 
 ### 配置[Koishi](https://koishi.chat/zh-CN/manual/usage/market.html)
 
-~~(好像可以不安装这个，如果不用的话，或者说是选一个)~~
+~~(好像可以不配置这个，如果不用的话，或者说是选一个即可)~~
 
 **1. 在 Koishi 插件市场搜索并安装 adapter-onebot**[​](https://llonebot.github.io/zh-CN/guide/configuration#_1-%E5%9C%A8-koishi-%E6%8F%92%E4%BB%B6%E5%B8%82%E5%9C%BA%E6%90%9C%E7%B4%A2%E5%B9%B6%E5%AE%89%E8%A3%85-adapter-onebot)
 
