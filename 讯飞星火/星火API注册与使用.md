@@ -10,7 +10,7 @@
 
 ## 选择需要调用的模型
 
-进入[调试中心](https://console.xfyun.cn/services/sparkapiCenter)，选择一个模型，这里使用的认证获取的[Spark Max](https://console.xfyun.cn/services/bm35)，将下面参数替换为你自己的数据
+进入[调试中心](https://console.xfyun.cn/services/sparkapiCenter)，选择一个模型，这里使用的认证获取的[Spark Max](https://console.xfyun.cn/services/bm35)，将下面参数替换为你自己的数据，其他数据请参考[SparkApi.py](https://github.com/noSugarK/QQ_bot/edit/main/%E8%AE%AF%E9%A3%9E%E6%98%9F%E7%81%AB/SparkApi.py)
 
 ```python
 # Spark API所需参数
