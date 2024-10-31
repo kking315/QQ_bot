@@ -12,9 +12,8 @@
 
 问题：403 拒绝连接
 
-![image-20241030211042827](https://github.com/user-attachments/assets/6e290c52-5925-4d7f-964c-de62b56e7220)
 ![image-20241030211035504](https://github.com/user-attachments/assets/a1861630-3419-403c-80aa-4246a9e52444)
-
+![image-20241030211042827](https://github.com/user-attachments/assets/6e290c52-5925-4d7f-964c-de62b56e7220)
 
 解决办法就是把‘/’删了
 
@@ -36,9 +35,10 @@ Tip：如果请求超时就用镜像网址或者翻墙，下载报错先关闭�
 
 一键安装
 
-![image-20241030211259168](C:\Users\86139\AppData\Roaming\Typora\typora-user-images\image-20241030211259168.png)
+![image-20241030211259168](https://github.com/user-attachments/assets/86bdf65e-fc3e-49b7-bd47-9fb0a0e84712)
 
-![image-20241030211309118](C:\Users\86139\AppData\Roaming\Typora\typora-user-images\image-20241030211309118.png)
+![屏幕截图 2024-10-31 122622](https://github.com/user-attachments/assets/996d2362-171f-436a-bdcf-82ea3eea6aa9)
+
 
 ### 4、[LLOneBot](https://github.com/LLOneBot/LLOneBot/releases/tag/v4.0.13)（一般会在上一步自动安装）
 
@@ -52,7 +52,8 @@ Tip：如果请求超时就用镜像网址或者翻墙，下载报错先关闭�
 
 **1. 在 Koishi 插件市场搜索并安装 adapter-onebot**[​](https://llonebot.github.io/zh-CN/guide/configuration#_1-%E5%9C%A8-koishi-%E6%8F%92%E4%BB%B6%E5%B8%82%E5%9C%BA%E6%90%9C%E7%B4%A2%E5%B9%B6%E5%AE%89%E8%A3%85-adapter-onebot)
 
-![image-20241031111242295](C:\Users\86139\AppData\Roaming\Typora\typora-user-images\image-20241031111242295.png)
+![屏幕截图 2024-10-31 111238](https://github.com/user-attachments/assets/c7c8f993-a0af-47ba-a5c3-70a86e20d1ef)
+
 
 **2. 配置 adapter-onebot**[​](https://llonebot.github.io/zh-CN/guide/configuration#_2-%E9%85%8D%E7%BD%AE-adapter-onebot)
 
