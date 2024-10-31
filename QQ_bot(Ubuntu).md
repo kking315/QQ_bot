@@ -3,6 +3,7 @@
 QQ Linux版 目前支持x64（x86_64、amd64）、arm64（aarch64）、mips64（mips64el）三种架构，每种架构支持Debian系、红帽系、Arch Linux系、其它发行版中的一种或几种（未来可能继续扩充）。每一次发布均会提供架构和发行版的若干种组合支持的安装包，可按下面所述的规则进行选择。
 
 每一个安装包会按照形如如下的格式命名：
+
 ![image-20241030201358721](https://github.com/user-attachments/assets/7a94d487-57cb-45fd-8b48-b640919b584a)
 
 
