@@ -7,7 +7,7 @@
 [QQ机器人文档](https://bot.q.qq.com/wiki/develop/api-v2/openapi/emoji/model.html#EmojiType)
 
 [LLonebot快速上手](https://llob.napneko.com/zh-CN/develop/quick-start)
-, [接口文档](https://apifox.com/apidoc/shared-a7b7a53c-8b85-4885-8573-103cfffb75ac/doc-5341902)
+、[接口文档](https://apifox.com/apidoc/shared-a7b7a53c-8b85-4885-8573-103cfffb75ac/doc-5341902)
 
 帮助中心：[CQ码/CQ Code](https://docs.go-cqhttp.org/cqcode)、[事件](https://docs.go-cqhttp.org/event)
 
