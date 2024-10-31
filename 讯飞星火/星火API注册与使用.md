@@ -14,18 +14,11 @@
 
 ![屏幕截图 2024-10-31 185148](https://github.com/user-attachments/assets/450d182a-5413-45d6-b5db-0efe3283681c)
 
-'''
-
+```python
 #Spark API所需参数
-
 appid = "******"  # 替换为你的APPID
-
 api_secret = "******"  # 替换为你的APISecret
-
 api_key = "******"  # 替换为你的APIKey
-
 domain = "generalv3.5"
-
 Spark_url = "wss://spark-api.xf-yun.com/v3.5/chat"
-
-'''
+```
