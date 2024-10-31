@@ -9,11 +9,12 @@
 
 帮助中心：[CQ码/CQ Code](https://docs.go-cqhttp.org/cqcode)、[事件](https://docs.go-cqhttp.org/event)
 
-各API请参考各文件目录申请注册
+## 各API请参考各文件目录申请注册
 
-天气：[高德]()
+### 天气：
+[高德]()
 
-## 大模型API：
+### 大模型API：
 
 [智谱清言]()
 
