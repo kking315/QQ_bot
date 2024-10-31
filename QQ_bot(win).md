@@ -1,11 +1,5 @@
 # 基于QQNT架构的机器人配置手册
 
-[QQ机器人文档](https://bot.q.qq.com/wiki/develop/api-v2/openapi/emoji/model.html#EmojiType)
-
-[LLonebot快速上手](https://llob.napneko.com/zh-CN/develop/quick-start)
-
-帮助中心：[CQ码/CQ Code](https://docs.go-cqhttp.org/cqcode)、[事件](https://docs.go-cqhttp.org/event)
-
 离谱问题我一定要写在前面
 
 ![image-20241030211017262](https://github.com/user-attachments/assets/2f32c55b-8c5a-47b8-82db-138e3edb5de4)
