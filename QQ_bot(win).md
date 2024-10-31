@@ -49,8 +49,6 @@ Tip：如果请求超时就用镜像网址或者翻墙，下载报错先关闭�
 
 Python 示例:
 
-python
-
 ```
 import requests
 
@@ -78,8 +76,6 @@ user_id 是 QQ 号，message 是消息内容
 在 LLOneBot 设置中开启 HTTP 事件上报，地址为 `http://localhost:8080/`
 
 Python 示例:
-
-python
 
 ```
 import uvicorn
