@@ -8,7 +8,7 @@
 
 离谱问题我一定要写在前面
 
-![image-20241030211017262](C:\Users\86139\AppData\Roaming\Typora\typora-user-images\image-20241030211017262.png)
+![image-20241030211017262](https://github.com/user-attachments/assets/2f32c55b-8c5a-47b8-82db-138e3edb5de4)
 
 问题：403 拒绝连接
 
