@@ -97,6 +97,8 @@ if __name__ == "__main__":
 运行这个 Python 代码后，会在本地 8080 端口启动一个 HTTP 服务
 
 当有事件发生时，LLOneBot 会向 `http://localhost:8080/` 发送 POST JSON 请求，具体事件数据可以查看 [事件](https://llob.napneko.com/zh-CN/develop/event)
+
+配置图如下，配置完成后有[测试代码](https://github.com/kking315/QQ_bot/blob/main/test_send.py)
 ![屏幕截图 2024-10-31 123040](https://github.com/user-attachments/assets/14e08993-a3cf-4820-9432-09046701c3e2)
 
 
@@ -107,7 +109,6 @@ if __name__ == "__main__":
 ~~(好像可以不安装这个，如果不用的话，或者说是选一个)~~
 
 **1. 在 Koishi 插件市场搜索并安装 adapter-onebot**[​](https://llonebot.github.io/zh-CN/guide/configuration#_1-%E5%9C%A8-koishi-%E6%8F%92%E4%BB%B6%E5%B8%82%E5%9C%BA%E6%90%9C%E7%B4%A2%E5%B9%B6%E5%AE%89%E8%A3%85-adapter-onebot)
-配置图如下，配置完成后有[测试代码](https://github.com/kking315/QQ_bot/blob/main/test_send.py)
 
 ![屏幕截图 2024-10-31 111238](https://github.com/user-attachments/assets/c7c8f993-a0af-47ba-a5c3-70a86e20d1ef)
 
