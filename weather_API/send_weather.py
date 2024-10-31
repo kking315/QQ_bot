@@ -115,7 +115,7 @@ if __name__ == "__main__":
 
         # 发送 POST 请求
         response = requests.post('http://localhost:3000/send_private_msg', json={
-            'user_id': 895686378,
+            'user_id': ******,#填写发送的qq号
             'message': [
                 {
                     'type': 'text',
