@@ -10,7 +10,7 @@
 
 [智谱清言]()
 
-[讯飞星火]()
+[讯飞星火](https://github.com/noSugarK/QQ_bot/blob/main/%E8%AE%AF%E9%A3%9E%E6%98%9F%E7%81%AB/%E6%98%9F%E7%81%ABAPI%E6%B3%A8%E5%86%8C%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
 
 [文心一言]()
 
