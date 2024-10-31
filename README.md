@@ -2,7 +2,13 @@
  
 分[Win版](https://github.com/kking315/QQ_bot/blob/main/QQ_bot(win).md)和[Ubuntu版](https://github.com/kking315/QQ_bot/blob/main/QQ_bot(Ubuntu).md)，配置基本类似
 
+[QQ机器人文档](https://bot.q.qq.com/wiki/develop/api-v2/openapi/emoji/model.html#EmojiType)
+
+[LLonebot快速上手](https://llob.napneko.com/zh-CN/develop/quick-start)
+
 [接口文档](https://apifox.com/apidoc/shared-a7b7a53c-8b85-4885-8573-103cfffb75ac/doc-5341902)
+
+帮助中心：[CQ码/CQ Code](https://docs.go-cqhttp.org/cqcode)、[事件](https://docs.go-cqhttp.org/event)
 
 各API请参考各文件目录申请注册
 
