@@ -2,9 +2,9 @@ import json
 import requests
 
 # API密钥和密钥秘密
-api_key = '4e2744fd61180342'
-api_secret = '760e3e84b1e23d40b685df93ff6c8246'
-assistant_id = "67188e7621bf6c257e2add6f"
+api_key = '******'
+api_secret = '******'
+assistant_id = "******"
 
 def get_access_token(api_key, api_secret):
     url = "https://chatglm.cn/chatglm/assistant-api/v1/get_token"
