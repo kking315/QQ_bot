@@ -7,8 +7,8 @@ app = FastAPI()
 
 # Coze API所需参数
 coze_api_url = "https://api.coze.cn/open_api/v2/chat"
-coze_api_token = "pat_agSEJHtfyWwVVHSbJxSO71zdyMvRc6htrvaTYdWsBVYecKHicpcNq4BuQ1k9939X"
-coze_bot_id = "7427760647322451968"
+coze_api_token = "******"
+coze_bot_id = "******"
 
 # 机器人的昵称
 bot_nickname = "超级无敌奶龙大帝"
