@@ -9,9 +9,9 @@ from sseclient import SSEClient
 app = FastAPI()
 
 # API密钥和密钥
-api_key = '4e2744fd61180342'
-api_secret = '760e3e84b1e23d40b685df93ff6c8246'
-assistant_id = "67188e7621bf6c257e2add6f"
+api_key = '******'
+api_secret = '******'
+assistant_id = "******"
 
 
 # 获取访问令牌
